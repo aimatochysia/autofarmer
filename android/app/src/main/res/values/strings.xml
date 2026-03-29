@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoFarmer</string>
+    <string name="accessibility_service_label">AutoFarmer Auto-Clicker</string>
+    <string name="accessibility_service_description">Allows AutoFarmer to perform automated taps on the screen for auto-clicking functionality.</string>
+</resources>
